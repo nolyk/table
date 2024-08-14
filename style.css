@@ -1,0 +1,33 @@
+.box1{
+    background-color: #2A5D5A;
+    padding: 250px;
+}
+.txt1{
+    text-align: center;
+    padding: 1px;
+}
+#txt{
+    background-color: #311313;
+    width: 400px;
+    margin: auto;
+    margin-top: -230px;
+    padding: 10px 2px;
+    color: white;
+    font-size: 40px;
+}
+.box2{
+    background-color: black;
+    border: 7px solid red;
+    padding: 20px 20px;
+    margin-top: -140px;
+}
+.texts{
+    background-color: aqua;
+    padding: 10px;
+    padding-left: 30px;
+}
+.texts2{
+    background-color: aqua;
+    padding: 10px;
+    padding-left: 30px; 
+}
